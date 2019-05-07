@@ -10,7 +10,8 @@ Processing in package and velocity model is broken. (Has inf or 0). Import data.
 Seismic -> Excel -> PPT :C (Superfrownie)
 Drilling, esp. real-time drilling
 Geology
-(Deviation, Striplog, Mudlogs, DVRs, Correlations)
+Prognosed vs actual drilling
+(Deviation, Striplog, Mudlogs, DDRs (daily drilling reports), Correlations)
 
 # Cross-Section
 Visual integration of logs, formation tops and surfaces. LAS + Formation Tops (Standard treatment of formation tops? → core lib?)
@@ -36,7 +37,8 @@ Detect duplicates. Establish parent/child relationships. Perhaps with fyzzy wuzz
 Horizon picks, gridded surfaces., fault sticks, seismic data, well data
 
 # Fracture analysis
-Static and dynamic modelling of hydrofractures.
+Static analyis of fracture data and modelling of static natural fracture networks
+input into dynamic modelling and flow simulation
 
 # 3D viz of prestack data and attributes for noise analysis
 
