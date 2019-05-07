@@ -40,6 +40,9 @@ Horizon picks, gridded surfaces., fault sticks, seismic data, well data
 Static analyis of fracture data and modelling of static natural fracture networks
 input into dynamic modelling and flow simulation
 
+# Anti-collision
+Read well trajectories. Assure that they don't collide. 
+
 # 3D viz of prestack data and attributes for noise analysis
 
 # Time/depth conversion 
